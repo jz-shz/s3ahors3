@@ -29,4 +29,4 @@ The first method will only temporarily change policies, meaning changes will not
 [Lilac](https://github.com/mercuryworkshop/lilac) may be added in the future. BE PATIENT!! THIS SHIT TAKES TIME
 
 ## How s3ahors3 Works
-There's an easy way to disable your schools blocker, ill add a writeup so itl be easier to read
+There's an easy way to disable your schools blocker, read the [writeup](https://github.com/jz-shz/s3ahors3/blob/main/writeup.md) when i finish it lol
