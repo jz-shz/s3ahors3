@@ -26,7 +26,7 @@ If you notice that policies are still being applied, visit `chrome://policy` and
 The first method will only temporarily change policies, meaning changes will not be permanent. However, by disabling RootFS, policies will be edited permanently.
 
 ## Lilac
-[Lilac](https://github.com/mercuryworkshop/lilac) may be added in the future. BE PATIENT!! THIS SHIT TAKES TIME
+[Lilac](https://github.com/mercuryworkshop/lilac) edits device policys (e.g. dev mode, secure boot) and it may be added in the future. BE PATIENT!! THIS SHIT TAKES TIME
 
 ## How s3ahors3 Works
 There's an easy way to disable your schools blocker, read the [writeup](https://github.com/jz-shz/s3ahors3/blob/main/writeup.md) when i finish it lol
