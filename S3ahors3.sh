@@ -29,7 +29,7 @@ if [ "$selection" = "1" ]; then
    elif [ "$selection" = "c" ]; then
     clear
     echo "Created by: jz"
-    read -p "press [enter] to return to the bootloader menu"
+    read -p "press [enter] to return to the menu"
     return 1
 
     elif [ "$selection" = "p" ]; then
