@@ -21,7 +21,7 @@ read -p "Your selection: " selection
 if [ "$selection" = "1" ]; then
     sleep 1
 	rm -r /home/user/chronos/Extensions/haldlgldplgnggkjaafhelgiaglafanh
- # need to mount and unmount partition before it works successfully
+ # need to mount and unmount partition before it works successfully, unmount /home/user/chronos/Extensions/haldlgldplgnggkjaafhelgiaglafanh
  # could also add a check to see if goguardian is actually disabled
 	echo "SUCCESSFULLY DISABLED GOGUARDIAN!!"
 	echo ""
