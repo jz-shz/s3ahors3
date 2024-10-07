@@ -9,6 +9,7 @@ You **need** to have Developer Mode enabled!
 To enter the VT-2 shell, press CTRL + ALT + F2 (usually the right arrow key on your Chromebook)
   - Log in as `root`
 - Run the command `curl -Ls https://github.com/jz-shz/s3ahors3/blob/main/S3ahors3.sh | bash`
+- Reboot and enjoy
 
 ### Disabled RootFS (Permanent) - I WILL ADD THIS LATER IGNORE FOR NOW!!
 > [!NOTE]
