@@ -39,11 +39,11 @@ if [ "$selection" = "1" ]; then
     echo "unfinished selection"
     return 1
 
-    if [ "$selection" = "2" ]; then
+    elif [ "$selection" = "2" ]; then
     sleep 1
     bash s3ahors3/Payloads/Pollen.sh
-	echo ""
+    echo ""
 
-
+}
 
 fail - abort
